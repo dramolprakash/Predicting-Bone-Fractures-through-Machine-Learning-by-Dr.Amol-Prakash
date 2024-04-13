@@ -32,5 +32,13 @@ Visualizing the analyzed data and developing machine learning models to predict 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/dramolprakash/Predicting-Bone-Fractures-through-Machine-Learning-by-Dr.Amol-Prakash/assets/18162205/88313214-abb8-4103-bf13-bf9bf0868eff)
+
+![App Screenshot](https://github.com/dramolprakash/Predicting-Bone-Fractures-through-Machine-Learning-by-Dr.Amol-Prakash/assets/18162205/08985f1f-f713-4161-b853-34350cb60562)
+
+![App Screenshot](https://github.com/dramolprakash/Predicting-Bone-Fractures-through-Machine-Learning-by-Dr.Amol-Prakash/assets/18162205/0df84c0c-8d5a-4f41-908e-a88e39f178fb)
+
+![App Screenshot](https://github.com/dramolprakash/Predicting-Bone-Fractures-through-Machine-Learning-by-Dr.Amol-Prakash/assets/18162205/593cc6c2-863b-4408-bbc2-bafc3db58a61)
+
+![App Screenshot](https://github.com/dramolprakash/Predicting-Bone-Fractures-through-Machine-Learning-by-Dr.Amol-Prakash/assets/18162205/29f855ab-0154-45bf-96ba-7f5e78384d0b)
 

@@ -1,4 +1,4 @@
-# Predicting Bone Fractures through Machine Learning by Dr.Amol Prakash
+# Predicting Bone Fractures through Machine Learning by Dr. Amol Prakash
 
 ## Introduction
 Welcome to the Predicting Bone Fractures with Machine Learning project repository! This project aims to investigate the relationship between patient risk factors and the likelihood of experiencing bone fractures using advanced machine learning techniques.

@@ -14,16 +14,16 @@ Alternative Hypothesis: The factors such as age, gender, bone mineral density, a
 
 ## Methodology:
 1. **Data Collection**: 
-Obtaining relevant datasets containing information on risk factors contributing to bone fractures.
+*Obtaining relevant datasets containing information on risk factors contributing to bone fractures.*
 
 2. **Data Extraction, Cleaning, and Storage**: 
-Preprocessing and organizing the collected data to prepare it for analysis.
+*Preprocessing and organizing the collected data to prepare it for analysis.*
 
 3. **Data Analysis**: 
-Analyzing the cleaned data to identify patterns and relationships between risk factors and bone fractures.
+*Analyzing the cleaned data to identify patterns and relationships between risk factors and bone fractures.*
 
 4. **Data Visualization and Machine Learning Models**: 
-Visualizing the analyzed data and developing machine learning models to predict the likelihood of bone fractures based on identified risk factors.
+*Visualizing the analyzed data and developing machine learning models to predict the likelihood of bone fractures based on identified risk factors.*
 
 ## Dataset:
 [Bone Mineral Density](https://www.kaggle.com/datasets/jehanbhathena/bone-mineral-density)
